@@ -1,13 +1,13 @@
-package s5.gateway;
+package s5.eureka;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class GatewayApplicationTests {
+class EurekaApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    void contextLoads() {
+    }
 
 }

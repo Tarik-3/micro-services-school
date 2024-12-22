@@ -63,6 +63,7 @@
 	</dependencyManagement>
 
 	<build>
+		<finalName>Gateway</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
